@@ -1,2 +1,2 @@
 # flickurator-mean
-Photo curator web app for Flickr using MEAN stack
+A photo curator web app for Flickr using MEAN stack
